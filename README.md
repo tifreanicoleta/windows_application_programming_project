@@ -23,7 +23,7 @@ The project uses Entity Framework to work with a SQL database. It also includes 
 Choose a subscription type such as: 
 - Standard
 - Premium
-- Unlimited
+- Business
 
   ![Choose Subscription Type](Tifrea_Nicoleta_Proiect_PAW_gr1159/AbonatiTelefonici/images/choose_subscription_type.png)
 
