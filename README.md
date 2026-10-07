@@ -43,7 +43,7 @@ Choose a subscription type such as:
 - Check required fields
 -  Validate phone numbers
 -  Validate email adresses
--  Use 'ERROR PROVIDER' to show validation errors
+-  Use `ERROR PROVIDER` to show validation errors
 
 ## Technologies and Frameworks used: 
 - C#
