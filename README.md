@@ -32,6 +32,8 @@ Choose a subscription type such as:
 - TV chanels
 - Roaming
 
+    ![Add extra options](Tifrea_Nicoleta_Proiect_PAW_gr1159/AbonatiTelefonici/images/extra_options.png)
+
 ### Payments:
 - Add and view payments made by a subscriber
 - Keep a simple payment history
