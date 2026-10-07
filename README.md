@@ -25,6 +25,8 @@ Choose a subscription type such as:
 - Premium
 - Unlimited
 
+  ![Choose Subscription Type](Tifrea_Nicoleta_Proiect_PAW_gr1159/AbonatiTelefonici/images/choose_subscription_type.png)
+
 ### Add extra options, for example:
 - Mobile data packages
 - TV chanels
