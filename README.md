@@ -14,7 +14,7 @@ The project uses Entity Framework to work with a SQL database. It also includes 
 - Delete subscribers
 - Store basic information such as name, phone number and adress
 
-  ![Main Interface](images/main_form.png)
+  ![Main Interface](Tifrea_Nicoleta_Proiect_PAW_gr1159/AbonatiTelefonici/images/main_form.png)
 
 ### Subscriptions
 
