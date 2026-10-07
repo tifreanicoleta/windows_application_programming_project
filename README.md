@@ -16,6 +16,8 @@ The project uses Entity Framework to work with a SQL database. It also includes 
 
   ![Main Interface](Tifrea_Nicoleta_Proiect_PAW_gr1159/AbonatiTelefonici/images/main_form.png)
 
+  ![Add Subscribers](Tifrea_Nicoleta_Proiect_PAW_gr1159/AbonatiTelefonici/images/add_subscriber.png)
+
 ### Subscriptions
 
 Choose a subscription type such as: 
