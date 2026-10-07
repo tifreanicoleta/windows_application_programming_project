@@ -26,17 +26,14 @@ Choose a subscription type such as:
 - Business
 
   ![Choose Subscription Type](Tifrea_Nicoleta_Proiect_PAW_gr1159/AbonatiTelefonici/images/choose_subscription_type.png)
+  
 
 ### Add extra options, for example:
 - Mobile data packages
-- TV chanels
 - Roaming
 
     ![Add extra options](Tifrea_Nicoleta_Proiect_PAW_gr1159/AbonatiTelefonici/images/extra_options.png)
 
-### Payments:
-- Add and view payments made by a subscriber
-- Keep a simple payment history
 
 ### Database:
 - Store the client information in a SQL database
@@ -52,6 +49,8 @@ Choose a subscription type such as:
 -  Validate phone numbers
 -  Validate email adresses
 -  Use `ERROR PROVIDER` to show validation errors
+
+  ![Error Providing](Tifrea_Nicoleta_Proiect_PAW_gr1159/AbonatiTelefonici/images/error_message.png)
 
 ## Technologies and Frameworks used: 
 - C#
